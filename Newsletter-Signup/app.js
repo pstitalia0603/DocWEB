@@ -73,8 +73,4 @@ app.listen(process.env.PORT || 3000, function() {
 });
 
 
-//API KEY MAILCHIMP
-//5e095b925dba2700570092221521a018-us17
 
-//list
-//23e1053797
